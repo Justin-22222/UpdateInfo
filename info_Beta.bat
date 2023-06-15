@@ -1,2 +1,2 @@
 echo 3.00.3011 Update Info
-echo ä¸­æ–‡è©¦è©¦çœ‹
+echo ¤¤¤å¸Õ¸Õ¬Ý
