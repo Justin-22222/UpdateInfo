@@ -1,1 +1,3 @@
-echo 沒東西，下個版本才有！
+echo 3.00.1145 (1A1099)
+echo.
+echo 1.GPU從Skhol Basic Graphics 1000改為Skhol Graphics

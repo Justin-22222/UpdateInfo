@@ -1,2 +1,3 @@
-echo 3.00.3011 Update Info
-echo 中文試試看
+echo 3.00.1145 (1A1099)
+echo.
+echo 1.GPU從Skhol Basic Graphics 1000改為Skhol Graphics
