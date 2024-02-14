@@ -1,12 +1,10 @@
-echo               Dev更新 4.00 (2a1556085dev)
+cls
+echo               Dev更新 4.00 (2a4432613dev)
 echo. 
 echo 　　　　　更新內容　　　　　　　　　　Bug修復
 echo =========================== ==========================
-echo 1.將啟用功能整合至Settings  1.修復了自動更新窗口未隱藏
-echo 2.將關於整合至Settings
-echo 3.新的OOBE介面
-echo 4.開機動畫改變
-echo 5.將廢除的BSOD重新使用
-echo 6.自動更新
+echo 1.系統檔案加密              沒有修復任何東西
+echo 2.假NVRAM
+echo 3.現在點擊安裝可以看日誌
 echo.
-echo                 (建議所有Dev使用者安裝)
+echo                (建議所有Dev的使用者安裝)
